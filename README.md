@@ -37,7 +37,7 @@ Aplicación web con React para mostrar, agregar, editar y dar "me gusta" a tarje
 - [Homeland](https://github.com/mandujano-cruz/web_project_homeland)  
 Página que simula una galería de arte, presentando fotografías acompañadas de sus historias. Está diseñada para ser completamente responsiva, adaptándose en dispositivos móviles, tabletas y computadoras de escritorio.
 
-- [Coffee Shop](https://github.com/mandujano-cruz/web_project_coffeeshop).
+- [Coffee Shop](https://github.com/mandujano-cruz/web_project_coffeeshop).  
 El sitio presenta un diseño moderno y completamente responsivo, pensado para ofrecer una experiencia agradable tanto en dispositivos móviles como en escritorio. Se busca transmitir la esencia de una cafetería acogedora.
 
 ---

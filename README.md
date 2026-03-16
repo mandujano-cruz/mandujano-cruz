@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jesús Mandujano Cruz 👋</h1>
 
 <p align="center">
-  Ingeniero en Redes y Telecomunicaciones | Desarrollador Web en formación en TripleTen LatAm 
+  Ingeniero en Redes y Telecomunicaciones | Desarrollador Web 
 </p>
 
 ---

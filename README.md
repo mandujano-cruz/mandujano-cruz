@@ -46,7 +46,7 @@ El sitio presenta un diseño moderno y completamente responsivo, pensado para of
 
 - LinkedIn: [Jesús Mandujano Cruz](https://www.linkedin.com/in/mandujanocruzjesus/)
 - Correo: jesus.mandujano.cruz@outlook.com
-- Portafolio (próximamente)
+- [Portafolio](https://portfolio-web-fgkr.onrender.com)
 
 ---
 
